@@ -1,5 +1,5 @@
 {
-  "name": "@dfuse/client",
+  "name": "typedoc-bug-987-repro",
   "version": "1.0.0",
   "license": "MIT",
   "devDependencies": {
