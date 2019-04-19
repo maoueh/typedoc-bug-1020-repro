@@ -1,0 +1,6 @@
+{
+  "compilerOptions": {
+    // Offending option!
+    "strict": true,
+  }
+}
