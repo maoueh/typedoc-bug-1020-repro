@@ -1,6 +1,6 @@
-Typedoc nested parameters not rendered bug
+Typedoc nested parameters not rendered bug (union type problem)
 
-See TypeStromg/typedoc#987
+See TypeStrong/typedoc#1020
 
 The bug seems to occur only when `tsconfig.json#strict` option is `true`.
 
